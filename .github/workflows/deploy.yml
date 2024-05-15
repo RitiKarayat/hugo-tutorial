@@ -8,8 +8,6 @@ on:
       - main
     # Ignore paths which are not related to the site's content
     paths-ignore:
-      - .gitignore
-      - .gitmodules
       - README.md
 
   # Allows you to run this workflow manually from the Actions tab
