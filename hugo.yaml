@@ -1,4 +1,4 @@
-baseURL: https://ritikarayat.github.io/hugo-tutorial/random/
+baseURL: https://ritikarayat.github.io/random/
 languageCode: en-us
 title: My New Hugo Site
 theme: 'ananke'
